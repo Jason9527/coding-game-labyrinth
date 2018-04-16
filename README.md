@@ -2,5 +2,5 @@
 
 the labyrinth of coding game
 
-according 
+according
 https://ethiery.github.io/codingame/the-labyrinth.html
